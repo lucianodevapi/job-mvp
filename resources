@@ -1,0 +1,8 @@
+      
+      
+      host: localhost
+      port: 27017
+      database: job_mvp_api
+      
+      uri: mongodb+srv://lucianodepaula:1100MongoDB@cluster0.iz2csdx.mongodb.net/job_mvp_api
+      uri: mongodb+srv://lucianodepaula:1100MongoDB@cluster0.iz2csdx.mongodb.net/?retryWrites=true&w=job_mvp_api
